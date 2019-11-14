@@ -1,0 +1,742 @@
+v_age,v_gender,v_race,weapon,crime,prediction,unit
+29,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+29,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+31,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+60,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+60,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+21,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+21,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+27,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+28,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+59,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+55,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+59,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+51,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+29,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+30,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+57,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+27,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+70,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+52,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+5,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+8,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+45,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+35,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+34,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+48,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+26,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+26,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+27,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+16,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+54,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+56,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+56,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+64,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+55,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+14,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+39,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+14,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+49,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+51,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+26,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+38,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+34,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+35,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+27,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+36,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+34,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+29,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+54,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+47,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+29,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+33,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+47,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+33,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+47,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+14,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+17,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+17,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+17,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+3,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+29,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+10,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+5,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+3,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+2,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+28,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+56,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+28,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+17,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+30,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+31,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+51,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+48,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+49,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+40,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+30,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+30,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+29,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+55,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+1,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+34,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+30,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+57,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+38,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+13,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+28,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+41,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+46,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+40,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+44,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+41,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+46,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+40,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+44,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+41,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+46,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+40,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+44,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+38,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+47,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+44,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+48,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+62,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+60,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+41,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+47,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+36,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+42,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+55,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+69,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+56,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+28,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+38,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+29,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+21,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+23,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+41,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+33,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+31,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+21,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+24,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+29,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+29,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+26,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+28,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+21,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+40,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+41,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+26,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+34,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+16,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+69,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+56,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+27,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+36,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+23,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+47,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+47,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+29,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+2,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+2,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+29,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+37,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+54,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+81,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+24,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+23,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+54,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+26,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+45,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+40,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+45,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+63,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+45,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+21,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+61,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+3,F,Unknown,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+71,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+71,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+71,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+28,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+38,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+28,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+26,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+30,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+38,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+46,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+68,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+40,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+11,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+11,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+21,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+36,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+53,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+42,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+16,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+29,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+70,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+10,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+8,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+31,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+42,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+16,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+29,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+70,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+10,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+8,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+31,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+36,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+39,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+42,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+79,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+42,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+16,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+29,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+70,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+10,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+8,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+31,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+42,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+16,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+29,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+70,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+10,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+8,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+31,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+49,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+37,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+43,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+54,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+84,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+55,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+26,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+26,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+4,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+64,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+77,F,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,victim
+32,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+77,F,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,victim
+32,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+23,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+34,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+48,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+31,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+40,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+39,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+48,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+44,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+44,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+60,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+42,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+31,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+29,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+39,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+30,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+37,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+46,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+67,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+55,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+45,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+35,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+30,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+69,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+58,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+53,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+45,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+35,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+30,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+69,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+58,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+53,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+37,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+68,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+52,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+30,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+30,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+31,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+26,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+24,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+55,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+9,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+14,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+2,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+1,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+14,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+53,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+15,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+17,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+54,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+54,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+53,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+48,M,Asian,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+26,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+26,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+34,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+42,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+34,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+34,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+57,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+83,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,victim
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+27,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+52,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+48,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+14,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+39,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+49,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+43,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+45,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+21,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+56,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+36,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+47,M,Unknown,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+2,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+48,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+57,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+58,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+54,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+52,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+6,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+30,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+42,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+61,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+38,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+46,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+2,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+49,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+30,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+34,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+30,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+34,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+64,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+64,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+64,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+46,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+28,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+3,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+27,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+31,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+26,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+27,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+14,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+23,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+3,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+57,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+2,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+64,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+41,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+54,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+24,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+43,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+42,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+40,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+43,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+66,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+9,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+66,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+9,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+66,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+9,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+44,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+4,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+3,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+4,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+21,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+48,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+21,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+3,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+4,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+23,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+24,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+15,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+36,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+27,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+23,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+24,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+15,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+36,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+27,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+42,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+42,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+42,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+42,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+55,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+48,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+35,M,American Indian or Alaska Native,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+48,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+35,M,American Indian or Alaska Native,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+48,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+35,M,American Indian or Alaska Native,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+48,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+35,M,American Indian or Alaska Native,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+48,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+35,M,American Indian or Alaska Native,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+48,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+35,M,American Indian or Alaska Native,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+68,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+47,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+48,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+41,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+52,M,Asian,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+44,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+15,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+44,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+42,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+40,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+61,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+33,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+61,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+30,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+30,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+30,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+26,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+23,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+24,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+15,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+36,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+27,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+23,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+24,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+15,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+36,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+27,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+59,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+59,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+21,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+21,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+68,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+21,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+40,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+71,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+33,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+58,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+44,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+42,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+19,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+53,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+50,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+37,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+6,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+1,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+25,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+28,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+21,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+77,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+12,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+12,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+30,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+46,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+32,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+42,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+49,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+62,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+28,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+26,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+28,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+40,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+40,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+53,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+21,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+26,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+3,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+6,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+10,U,Black or African American,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,victim
+6,U,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+55,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+22,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+1,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+30,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+30,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+28,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,victim

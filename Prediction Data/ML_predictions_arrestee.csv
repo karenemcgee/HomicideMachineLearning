@@ -1,0 +1,742 @@
+a_age,a_gender,a_race,weapon,crime,prediction,unit
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+37,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+34,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+22,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+48,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+62,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+62,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+62,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+62,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+34,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+34,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+21,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+30,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+37,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+67,F,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+26,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+21,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+22,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+54,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+28,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+22,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+43,F,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+50,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+39,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+26,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+26,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+41,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+43,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+45,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+47,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+22,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+22,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+22,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+14,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+43,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+32,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+21,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+32,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+34,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+34,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+41,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+34,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+21,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+61,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+28,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+28,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+63,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+63,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+63,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+63,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+54,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+51,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+61,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+66,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+22,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+41,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+41,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+45,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+44,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+51,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+28,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+36,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Asian,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+30,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+42,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+42,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+42,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+58,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+64,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+22,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+44,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+36,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+22,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+26,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+30,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+40,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+30,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+50,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+32,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+52,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+32,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+21,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+26,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+36,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+28,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+38,F,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+26,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+13,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+14,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+14,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+37,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+22,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+22,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+32,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+35,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+22,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+22,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+36,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+36,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+28,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+42,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+41,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+13,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+34,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+50,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+52,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+47,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+38,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+67,F,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+37,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+45,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+43,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+43,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+56,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+56,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+57,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+57,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+56,F,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+30,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+30,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+59,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+56,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+77,M,White,Shotgun (Automatic),Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+34,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+35,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+37,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+51,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+44,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+49,F,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+28,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+28,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+35,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+22,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+67,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+73,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+20,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+38,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+26,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+46,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+36,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+53,M,Asian,Personal Weapons,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+57,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+37,F,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+48,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+40,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+64,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+54,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+21,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+36,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+32,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+14,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+26,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+48,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+15,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+74,M,White,Shotgun (Automatic),Murder and Nonnegligent Manslaughter,1,arrestee
+74,M,White,Shotgun (Automatic),Murder and Nonnegligent Manslaughter,1,arrestee
+46,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+26,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+37,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+21,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+30,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+37,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+37,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+37,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+22,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+26,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+22,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+32,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+47,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+34,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+34,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+28,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+32,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+14,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+42,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+40,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+63,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Unknown,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+59,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+34,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+38,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+38,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+36,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+30,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+30,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+30,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+26,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+26,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+22,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+28,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+26,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+15,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+51,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+51,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+46,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+28,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+54,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+54,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+17,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+52,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+14,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+23,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+21,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+21,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+14,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+14,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+15,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+13,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+13,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+14,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+53,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+36,F,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+40,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+36,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+36,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+56,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+56,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+56,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+56,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+42,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+30,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+26,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+26,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+26,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+41,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+33,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+28,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+48,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+48,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+48,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+39,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+44,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+14,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+14,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+24,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+26,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+41,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+21,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+53,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+41,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+41,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,F,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+29,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+32,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+27,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+32,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+49,M,White,Knife/Cutting Instrument,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+19,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+20,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+16,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+25,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+44,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+31,M,Black or African American,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+30,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
+18,M,White,Handgun,Murder and Nonnegligent Manslaughter,1,arrestee
