@@ -58,3 +58,4 @@ In comparing the predicted 2018 homicide type and weapon to the actual 2018 data
 ![PredictionVictimCrime](ML_Images/PredVictimCrime.png)
 
 ![PredictionVictimWeapon](ML_Images/PredVictimWeapon.png)
+ 
